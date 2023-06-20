@@ -1,0 +1,42 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    grid-area: header;
+
+    h1 {
+        font-weight: 600;
+        font-size: 2em;
+        line-height: 3em;
+        color: var(--text-primary);
+    }
+
+    h2 {
+        font-size: 1.5em;
+        line-height: 2em;
+        font-style: italic;
+        font-weight: 400;
+        color: var(--text-primary);
+    }
+
+    img {
+        border-radius: 100%;
+        border: 2px solid white;
+    }
+
+    @media (min-width: 768px) {
+        flex-direction: row-reverse;
+        align-items: center;
+        gap: 24px;
+
+        h1 {
+            font-size: 2.25em;
+            line-height: 3em;
+        }
+
+        h2 {
+            font-size: 2.25em;
+            line-height: 2.25em;
+        }
+    }
+}
+
