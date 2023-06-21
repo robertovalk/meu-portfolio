@@ -1,4 +1,7 @@
 import { Header } from "./componentes/header"
+import { Experience } from "./componentes/experience/experience"
+import { Info } from "./componentes/information/information"
+import { SocialBtns } from "./componentes/social/social"
 import "./styles/home.scss"
 
 
@@ -9,30 +12,13 @@ export default function Home() {
 
       <Header/>
 
-      <div>
-        <div className='experience'>
-          <h3>Experience</h3>
-          <p>texto</p>
-        </div>
-        <div className='experience-time'>
-          
-        </div>
+      <Experience/>
+      
+      <Info/>
 
-      </div>
-      <div className="infos">
-        <h3>languages</h3>
-        <div className='languages-info'>
-          <span>portugues</span>
-          <span>ingles</span>
-        </div>
-        <h3>Education</h3>
-        <span>Alura Alura Alura Alura Alura Alura</span>
-      </div>
       <div className='buttons'>
-        <div className='social'>
-
-        </div>
-        <button>Contato</button>
+        <SocialBtns/>
+        <button className="primary-btn">Contato</button>
       </div>
     </main>
   )

@@ -3,7 +3,7 @@ import { Poppins } from 'next/font/google'
 
 const inter = Poppins({
    subsets: ['latin'],
-    weight: ['400', '500', '600'] 
+    weight: ['300', '400', '500', '600'] 
 })
 
 export const metadata = {
@@ -17,7 +17,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
+    <html lang="pt-br">
       <body className={inter.className}>{children}</body>
     </html>
   )
