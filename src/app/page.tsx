@@ -2,6 +2,7 @@ import { Header } from "./componentes/header"
 import { Experience } from "./componentes/experience/experience"
 import { Info } from "./componentes/information/information"
 import { SocialBtns } from "./componentes/social/social"
+import { EmailIcon } from "../app/componentes/icons/email-icon"
 import "./styles/home.scss"
 
 
@@ -18,7 +19,10 @@ export default function Home() {
 
       <div className='buttons'>
         <SocialBtns/>
-        <button className="primary-btn">Contato</button>
+        <button className="primary-btn">
+          Contato
+          <EmailIcon/>
+        </button>
       </div>
     </main>
   )
