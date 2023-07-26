@@ -13,14 +13,15 @@ export default function Home() {
 
       <Header/>
 
-      <Experience/>
-      
       <Info/>
 
+      <Experience/>
+      
+    
       <div className='buttons'>
         <SocialBtns/>
         <button className="primary-btn">
-          Contato
+          <a className="link-email" href="mailto:email@provedor.com.br?subject=Assunto do email&cc=copia@provedor.com.br&bcc=copiaoculta@provedor.com.br&body=">Entre em contato</a>
           <EmailIcon/>
         </button>
       </div>

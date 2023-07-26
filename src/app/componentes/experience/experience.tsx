@@ -7,22 +7,22 @@ export function Experience(){
         
         <div className= "experience">
                 
-            <h3>Experience</h3>
+            <h3>Experiencia</h3>
             
-            <p>texto</p>
+            <p>Sou desenvolvedor Front-end há 1 ano e meio, comecei com projetos simples usando apenas HTML e CSS. Com o tempo passei a implementar JS nos projetos, bem como frameworks css (Bootstrap). Hoje, consigo desenvolver projetos com Next.js.</p>
 
             <div className= "experience-time">
                 <div className="exp">
                         <Image 
                             src="/react.svg"
-                            alt="Vercel Logo"      
+                            alt="react Logo"      
                             width={40}
                             height={40}
                             priority
                         />
                         <div className="experience-unit">
-                            <div className="experience-measure measure-3">
-                                <span>3 anos</span>
+                            <div className="experience-measure measure-1">
+                                <span>3 meses</span>
                             </div>
                         </div>
                 </div>
@@ -30,14 +30,14 @@ export function Experience(){
                 <div className="exp">
                         <Image
                             src="/ts.svg"
-                            alt="Vercel Logo"      
+                            alt="Ts Logo"      
                             width={40}
                             height={40}
                             priority
                         />
                         <div className="experience-unit">
-                            <div className="experience-measure measure-3">
-                                <span>3 Anos</span>
+                            <div className="experience-measure measure-1">
+                                <span>3 meses</span>
                             </div>
                         </div>
                 </div>
@@ -45,29 +45,14 @@ export function Experience(){
                 <div className="exp">
                     <Image
                         src="/js.svg"
-                        alt="Vercel Logo"      
+                        alt="Js Logo"      
                         width={40}
                         height={40}
                         priority
                     />
                     <div className="experience-unit">
                         <div className="experience-measure measure-2">
-                            <span>3 anos</span>
-                        </div>
-                    </div>
-                </div>
-
-                <div className="exp">
-                    <Image
-                        src="/java.svg"
-                        alt="Vercel Logo"      
-                        width={40}
-                        height={40}
-                        priority
-                    />
-                    <div className="experience-unit">
-                        <div className="experience-measure measure-1">
-                            <span>3 anos</span>
+                            <span>1 ano</span>
                         </div>
                     </div>
                 </div>

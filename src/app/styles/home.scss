@@ -1,5 +1,5 @@
 .container {
-    padding: 40px 32px;
+    padding: 1em 2em;
     display: grid;
     gap: 24px;
     grid-template-rows: repeat(4, auto);
@@ -39,23 +39,25 @@
             gap: 20px;
             justify-content: center;
         }
+
+        .link-email {
+            text-decoration: none;
+            color: var(--white);
+            cursor: pointer;
+        }
+        
     
     }
    
 
 }
 
-@media (min-width: 768px){
+
+@media (min-width:1024px) {
     .container {
-        padding: 70px 60px;
-        height: 100vh;
-        grid-template-rows: fit-content(100%);
-        grid-template-columns: 60% 30%;
-        align-items: center;
-        justify-items: start;
-        justify-content: space-between;
         grid-template-areas: 
-        "header info"
-        "experience btns";
+        "header experience"
+        "info btns";
     }
+
 }
