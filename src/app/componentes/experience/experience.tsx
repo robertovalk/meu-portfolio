@@ -7,7 +7,7 @@ export function Experience(){
         
         <div className= "experience">
                 
-            <h3>Experiencia</h3>
+            <h3>Experiência</h3>
             
             <p>Sou desenvolvedor Front-end há 1 ano e meio, comecei com projetos simples usando apenas HTML e CSS. Com o tempo passei a implementar JS nos projetos, bem como frameworks css (Bootstrap). Hoje, consigo desenvolver projetos com Next.js.</p>
 

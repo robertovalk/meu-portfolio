@@ -14,10 +14,15 @@
         align-items: center;
         justify-content: center;
         text-decoration: none;
+        transition: all .3s ease-in-out;
 
         
     }
 
+    a:hover {
+        transform: scale(1.2);
+        
+    }
  
 
 
