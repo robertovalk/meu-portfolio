@@ -11,10 +11,10 @@ export function Info() {
 
                 <Link href="/Certificados">Certificados</Link>
             </span>
-            <h3>languages</h3>
+            <h3>Idiomas</h3>
             <div className='languages-info'>
-                <span>portugues</span>
-                <span>ingles</span>
+                <span>português</span>
+                <span>inglês</span>
             </div>
         </div>
       
