@@ -17,8 +17,8 @@ export function Projetos(){
                 </li>
                 <li className="lista-links">
                     
-                    <Link href="https://robertovalk.github.io/nav-box-js/#">
-                    Nav-js
+                    <Link href="https://robertovalk.github.io/Pokedex/">
+                    Pokedex
                     </Link>
                 </li>
                 <li className="lista-links">
