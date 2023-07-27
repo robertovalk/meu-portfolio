@@ -12,7 +12,7 @@ export function Header () {
                 <h2>Desenvolvedor Front-end</h2>
             </div>
 
-            <Image
+            <Image className='img-perfil'
                 src="/perfil1.svg"
                 alt="Vercel Logo"      
                 width={300}

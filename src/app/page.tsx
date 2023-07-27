@@ -4,6 +4,7 @@ import { Info } from "./componentes/information/information"
 import { SocialBtns } from "./componentes/social/social"
 import { EmailIcon } from "../app/componentes/icons/email-icon"
 import "./styles/home.scss"
+import { Projetos } from "./componentes/projetos/projetos"
 
 
 
@@ -25,6 +26,10 @@ export default function Home() {
           <EmailIcon/>
         </button>
       </div>
+      <div className="projetos">
+        <Projetos/>
+      </div>
+
     </main>
   )
 }

@@ -11,7 +11,7 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  
+  list-style: none;
 }
 
 html,
@@ -30,7 +30,7 @@ h3 {
   line-height: 28px;
   color: var(--text-primary);
   text-transform: uppercase;
-
+  align-self: center;
 
 
 

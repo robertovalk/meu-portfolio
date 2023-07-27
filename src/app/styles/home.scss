@@ -9,7 +9,8 @@
     "header"
     "btns"
     "experience"
-    "info";
+    "info"
+     "projetos";
 
     .buttons {
         display: flex;
@@ -63,7 +64,8 @@
     .container {
         grid-template-areas: 
         "header experience"
-        "info btns";
+        "info btns"
+        "projetos projetos";
     }
 
 }

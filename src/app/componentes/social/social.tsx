@@ -16,7 +16,7 @@ export function SocialBtns () {
             <a href="https://www.instagram.com/robertovalk/">
                 <InstaIcon/>
             </a>
-            <a href="#">
+            <a href="https://wa.me/5592982592715?text=Olá%20gostei%20do%20seu%20portfólio" target="_blank">
                 <Image
                 src="/wpp.svg"
                 alt="whatsapp Logo"      
