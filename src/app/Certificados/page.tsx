@@ -51,7 +51,7 @@ export default function Certificados () {
                     </li>
                     <li className="certificadosItem">
                         <Link href="https://oceanbrasil.com/certificado/clgw5xa7o000cl908sttl61vv_3548">
-                            introdução ao Desenvolvimento Ágil
+                            Introdução ao Desenvolvimento Ágil
                         </Link>
                     </li>
 

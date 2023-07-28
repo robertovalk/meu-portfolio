@@ -13,8 +13,8 @@ export function Info() {
             </span>
             <h3>Idiomas</h3>
             <div className='languages-info'>
-                <span>português</span>
-                <span>inglês</span>
+                <span>Português</span>
+                <span>Inglês</span>
             </div>
         </div>
       
