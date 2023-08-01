@@ -1,5 +1,6 @@
 import './globals.scss'
 import { Poppins } from 'next/font/google'
+import { Footer } from './componentes/footer/footer'
 
 const inter = Poppins({
    subsets: ['latin'],
@@ -18,7 +19,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="pt-br">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        {children}
+        <Footer/>
+      </body>
     </html>
   )
 }

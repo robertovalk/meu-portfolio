@@ -1,0 +1,19 @@
+.footer {
+    background-color: var(--green);
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2em;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 24px;
+}
+
+@media (min-width: 1024px) {
+    .footer {
+        font-size: 25px;
+        font-weight: 500;
+        padding: 1em;
+    }
+}
