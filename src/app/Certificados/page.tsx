@@ -30,8 +30,8 @@ export default function Certificados () {
                         </Link>
                     </li>
                     <li className="certificadosItem">
-                        <Link href="https://cursos.alura.com.br/certificate/7218fee0-51fb-4e8f-9c84-366a3e421ac0?lang=pt_BR">
-                            Dispondo Elementos com FlexBox e Grid
+                        <Link href="https://cursos.alura.com.br/user/rfalcaao/course/javascript-web-paginas-dinamicas/certificate">
+                            JavaScript Para Web
                         </Link>
                     </li>
                     <li className="certificadosItem">
