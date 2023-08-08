@@ -33,6 +33,12 @@ export function Projetos(){
                         Alura Books
                     </Link>
                 </li>
+                <li className="lista-links">
+                    
+                    <Link href="https://robertovalk.github.io/nav-box-js/#">
+                        nav-box-js
+                    </Link>
+                </li>
             </ul>
         </div>
         </>
