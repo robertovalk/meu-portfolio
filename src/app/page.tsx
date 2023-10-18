@@ -22,7 +22,7 @@ export default function Home() {
       <div className='buttons'>
         <SocialBtns/>
         <button className="primary-btn">
-          <a className="link-email" href="mailto:email@provedor.com.br?subject=Assunto do email&cc=copia@provedor.com.br&bcc=copiaoculta@provedor.com.br&body=">Entre em contato</a>
+          <a className="link-email" href="mailto:rfalcaao@gmail.com?subject=Assunto do email&cc=copia@provedor.com.br&bcc=copiaoculta@provedor.com.br&body=">Entre em contato</a>
           <EmailIcon/>
         </button>
       </div>
