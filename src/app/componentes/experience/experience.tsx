@@ -9,7 +9,7 @@ export function Experience(){
                 
             <h3>Experiência</h3>
             
-            <p>Sou desenvolvedor Front-end há 1 ano e meio, comecei com projetos simples usando apenas HTML e CSS. Com o tempo passei a implementar JS nos projetos, bem como frameworks css (Bootstrap). Hoje, consigo desenvolver projetos com Next.js.</p>
+            <p>Desenvolvedor Front-end com mais de 3 anos de experiência em desenvolvimento web, programando layouts voltados a metodologia Mobile First, para otimizar a experiência dos usuários de smartphones em single pages e landing pages, bem como atualização de informações e manutenção dos layouts, a fim de corrigir possíveis falhas na aplicação. </p>
 
             <div className= "experience-time">
                 <div className="exp">
