@@ -21,8 +21,8 @@ export function Experience(){
                             priority
                         />
                         <div className="experience-unit">
-                            <div className="experience-measure measure-1">
-                                <span>3 meses</span>
+                            <div className="experience-measure measure-2">
+                                <span>1 ano</span>
                             </div>
                         </div>
                 </div>
@@ -36,8 +36,8 @@ export function Experience(){
                             priority
                         />
                         <div className="experience-unit">
-                            <div className="experience-measure measure-1">
-                                <span>3 meses</span>
+                            <div className="experience-measure measure-2">
+                                <span>1 ano</span>
                             </div>
                         </div>
                 </div>
