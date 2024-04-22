@@ -35,8 +35,8 @@ export function Projetos(){
                 </li>
                 <li className="lista-links">
                     
-                    <Link href="https://robertovalk.github.io/nav-box-js/#">
-                        nav-box-js
+                    <Link href="https://robertovalk.github.io/LoopStududios/">
+                        Loop Studios
                     </Link>
                 </li>
             </ul>
