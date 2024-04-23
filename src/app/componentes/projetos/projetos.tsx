@@ -36,7 +36,7 @@ export function Projetos(){
                 <li className="lista-links">
                     
                     <Link href="https://robertovalk.github.io/LoopStududios/">
-                        Loop Studios
+                        Tracker
                     </Link>
                 </li>
             </ul>
