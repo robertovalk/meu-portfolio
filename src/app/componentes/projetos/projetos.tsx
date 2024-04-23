@@ -35,7 +35,7 @@ export function Projetos(){
                 </li>
                 <li className="lista-links">
                     
-                    <Link href="https://robertovalk.github.io/LoopStududios/">
+                    <Link href="https://tracker-2-seven.vercel.app/">
                         Tracker
                     </Link>
                 </li>
